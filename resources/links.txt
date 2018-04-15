@@ -1,0 +1,16 @@
+Initial setup for personal app type:
+https://towardsdatascience.com/collect-your-own-fitbit-data-with-python-ff145fa10873
+
+Fitbit package repo:
+https://github.com/orcasgit/python-fitbit
+Documentation:
+http://python-fitbit.readthedocs.io/en/latest/
+
+Fitbit web API reference:
+https://dev.fitbit.com/build/reference/web-api/
+
+OAuth2 Stuff:
+https://community.fitbit.com/t5/Web-API-Development/OAUTH2-0-Authorisation-in-Python/td-p/1116014
+
+Fitbit App Dashboard:
+https://dev.fitbit.com/apps
